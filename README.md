@@ -3,4 +3,9 @@
   
 ## About
 
-  This world is useful for many things, you can use the world to test functions, structures, items, and moe without worrying about making a new world everytime. You can also use this for skyblock, skywars, bedwars, or anything that would need a void world, this world was made from Minecraft [Java Edition](https://minecraft.fandom.com/wiki/Java_Edition) and was transfered to Minecraft [Bedrock Edition](https://minecraft.fandom.com/wiki/Bedrock_Edition) using [Chunker](https://chunker.app/)
+  This world is useful for many things, you can use the world to test functions, structures, items, and moe without worrying about making a new world everytime. You can also use this for skyblock, skywars, bedwars, or anything that would need a void world, this world was made from Minecraft [Java Edition](https://minecraft.fandom.com/wiki/Java_Edition) and was transfered to Minecraft [Bedrock Edition](https://minecraft.fandom.com/wiki/Bedrock_Edition) using [Chunker](https://chunker.app/).<br>
+  
+  ## Made By
+  <p align="left">
+  -[D4Rk Akuma](https://github.com/d4rkakuma)
+  </p>
