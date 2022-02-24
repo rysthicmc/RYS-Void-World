@@ -7,3 +7,10 @@
   
   ## Made By
 - [D4Rk Akuma](https://github.com/d4rkakuma)
+
+  ## How to use
+  
+  1) Download the file <br>
+  2) Open the `.zip` folder
+  3) Open `Void-World.mcworld`
+  4) Wait for the world to import into [Minecraft](https://minecraft.com/) and open the world
