@@ -7,5 +7,5 @@
   
   ## Made By
   <p align="left">
-  -[D4Rk Akuma](https://github.com/d4rkakuma)
+  - [D4Rk Akuma](https://github.com/d4rkakuma)
   </p>
