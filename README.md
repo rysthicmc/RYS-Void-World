@@ -8,6 +8,6 @@
   ## Made By
   <p align="left">
   <li>
-    <ul>[D4Rk Akuma](https://github.com/d4rkakuma)</ul>
+    <ul> [D4Rk Akuma](https://github.com/d4rkakuma) </ul>
   </li>
   </p>
